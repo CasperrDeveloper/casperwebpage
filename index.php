@@ -1,8 +1,3 @@
-<html>
-<head>
-<h1>hi</h1>
-</head>
-
-<body>
-</body>
-</html>
+<?php
+echo "penis";
+?>
